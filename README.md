@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sithabhishek
+- 👋 Hi, I’m abhishek
 - 👀 I’m interested in development,competitve programming
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email->saxenaabhishek378@gmail.com
 
